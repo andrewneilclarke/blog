@@ -1,6 +1,6 @@
 body {
   background: #fafafa;
-  color: #333333;
+  color: #A27F9F;
   margin-top: 5rem;
 }
 
@@ -13,11 +13,11 @@ ul {
 }
 
 .bg-steel {
-  background-color: #5f788a;
+  background-color: #F9DAF6;
 }
 
 .site-header .navbar-nav .nav-link {
-  color: #cbd5db;
+  color: #C88AC2;
 }
 
 .site-header .navbar-nav .nav-link:hover {
@@ -31,34 +31,39 @@ ul {
 .content-section {
   background: #ffffff;
   padding: 10px 20px;
-  border: 1px solid #dddddd;
+  border: 1px solid #E48BF0;
   border-radius: 3px;
   margin-bottom: 20px;
 }
 
 .article-title {
-  color: #444444;
+  color: #C659B7;
+  margin-left: 16px;
 }
 
 a.article-title:hover {
-  color: #428bca;
+  color: #783870;
   text-decoration: none;
+
 }
 
 .article-content {
   white-space: pre-line;
+  margin-left: 16px;
 }
 
 .article-img {
   height: 65px;
   width: 65px;
   margin-right: 16px;
+  margin: auto;
 }
 
 .article-metadata {
   padding-bottom: 1px;
   margin-bottom: 4px;
-  border-bottom: 1px solid #e3e3e3
+  margin-left: 16px;
+  border-bottom: 1px solid #E1B9E1
 }
 
 .article-metadata a:hover {
@@ -81,4 +86,5 @@ a.article-title:hover {
 
 .account-heading {
   font-size: 2.5rem;
+  
 }
